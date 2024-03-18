@@ -1,0 +1,8 @@
+# API 配置
+instafogging:
+  host: "http://apinew.ifedge.com"
+  appid: "appid"
+  secret_key: "secret"
+  uri:
+    #获取供应商列表
+    get_logfile: "/api/pcdn/get_logfile"
